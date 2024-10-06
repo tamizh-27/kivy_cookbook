@@ -1,0 +1,2 @@
+Icons : https://pictogrammers.com/library/mdi/
+RGBA color picker : https://rgbacolorpicker.com/
